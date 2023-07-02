@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Perigos da Internet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    p {
+      margin-bottom: 20px;
+    }
+    
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .button:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h1>Perigos da Internet</h1>
+    <p>A Internet pode ser um lugar perigoso se não tomarmos as devidas precauções. Aqui estão alguns dos principais perigos que você deve conhecer:</p>
+    
+    <h2>1. Malware</h2>
+    <p>Malware é um software malicioso que pode infectar o seu computador ou dispositivo móvel. Ele pode roubar informações pessoais, danificar arquivos e prejudicar o desempenho do seu dispositivo.</p>
+    
+    <h2>2. Phishing</h2>
+    <p>O phishing é uma técnica usada por criminosos para enganar as pessoas e obter informações confidenciais, como senhas e números de cartão de crédito. Eles geralmente enviam e-mails falsos ou criam sites fraudulentos para atrair as vítimas.</p>
+    
+    <h2>3. Roubo de identidade</h2>
+    <p>O roubo de identidade ocorre quando alguém obtém acesso às suas informações pessoais e as usa de forma fraudulenta. Isso pode levar a sérios problemas financeiros e legais.</p>
+    
+    <h2>4. Bullying online</h2>
+    <p>O bullying online, também conhecido como cyberbullying, envolve o uso da Internet para assediar, ameaçar ou intimidar pessoas. Isso pode ter um impacto negativo significativo na saúde mental e emocional das vítimas.</p>
+    
+    <h2>5. Privacidade</h2>
+    <p>A privacidade é uma preocupação importante na Internet. Muitas empresas coletam e vendem dados pessoais sem o consentimento dos usuários, o que pode comprometer a segurança e a privacidade das informações.</p>
+    
+    <p>Proteja-se dos perigos da Internet seguindo boas práticas de segurança, como manter seu software atualizado, usar senhas fortes, evitar clicar em links suspeitos e tomar cuidado com as informações pessoais que você compartilha online.</p>
+    
+    <a href="https://www.openai.com" class="button">Saiba mais</a>
+  </div>
+  
+  <script>
+    // Exemplo de código JavaScript para manipulação de eventos, caso necessário
+    document.querySelector('.button').addEventListener('click
